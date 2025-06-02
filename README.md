@@ -49,12 +49,28 @@ The project is structured into multiple subsystems, each following the V-model o
 
 ## 📊 Project Management Structure
 
-### 🧩 Work Breakdown Structure (WBS)
-Hierarchical decomposition across:
-- Propulsion  
-- Structures  
-- Avionics  
-- Software & Safety Systems
+## 🧩 Work Breakdown Structure (WBS)
+
+![](wbs.png)
+
+The Work Breakdown Structure (WBS) above presents a hierarchical decomposition of the **Air Cab project’s internal systems**, enabling modular planning, parallel execution, and milestone-based delivery. It breaks down complex subsystems into smaller, manageable components across all major domains:
+
+### 📂 Hierarchical Decomposition Across:
+- **Propulsion Systems** – motor architecture, system integration, and testing
+- **Structures** – cabin layout, materials, manufacturing, and ergonomic design
+- **Avionics** – flight control computers, sensors, and human-machine interface
+- **Software & Safety Systems** – embedded logic, temperature control, redundancy features
+
+Each component follows a development lifecycle:
+- **Design:** Initial engineering design, ergonomics, control architecture
+- **Build:** Manufacturing, installation of structural and system elements
+- **TI (Test & Integration):** Structural tests, airflow analysis, software testing
+- **Delivery:** Certification, C&C, maintenance guides, and system integration
+
+This WBS structure is used to plan timelines in **Microsoft Project**, and supports **Agile sprint-based execution** in software and avionics subsystems, alongside traditional systems engineering in hardware modules.
+
+📄 [Click here to view full WBS in PDF](WBS.pdf)
+
 
 ### 🗓️ Schedule Planning
 ![](scheduling.png)
@@ -65,6 +81,7 @@ The Air Cab project was structured using Microsoft Project to manage timelines, 
 - Agile-inspired sprints for software modules
 - MS Project used for WBS, Gantt charts, and long-term planning  
 - Covers conceptual design to flight certification
+📄 [Click here to view full schedule in PDF](Air Cab schedule.pdf)
 
 ### 💰 Cost Breakdown Structure (CBS)
 - Line-by-line estimation of labor, R&D, facilities, and testing  
@@ -86,4 +103,4 @@ University of Massachusetts Amherst
 
 **Rameen Mustafa**  
 M.S. Business Analytics - Isenberg School of Management  
-University of Massachusetts 
+University of Massachusetts Amherst
