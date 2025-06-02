@@ -79,5 +79,5 @@ Graduate Student – Engineering Management
 University of Massachusetts Amherst  
 
 **Rameen Mustafa**  
-M.S. Business Analytics - Isenberg School of Management
+M.S. Business Analytics - Isenberg School of Management  
 University of Massachusetts 
