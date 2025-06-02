@@ -72,8 +72,12 @@ The **AirCab eVTOL** initiative represents a highly integrated, system-level eng
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Dhruv Tiwari**  
 Graduate Student – Engineering Management  
 University of Massachusetts Amherst  
+
+**Rameen Mustafa**  
+M.S. Business Analytics - Isenberg School of Management
+University of Massachusetts 
