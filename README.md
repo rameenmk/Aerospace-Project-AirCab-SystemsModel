@@ -81,6 +81,7 @@ The Air Cab project was structured using Microsoft Project to manage timelines, 
 - Agile-inspired sprints for software modules
 - MS Project used for WBS, Gantt charts, and long-term planning  
 - Covers conceptual design to flight certification
+  
 📄 [Click here to view full schedule in PDF](Air Cab schedule.pdf)
 
 ### 💰 Cost Breakdown Structure (CBS)
