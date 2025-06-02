@@ -57,17 +57,14 @@ Hierarchical decomposition across:
 - Software & Safety Systems
 
 ### 🗓️ Schedule Planning
-- The Air Cab project was structured using Microsoft Project to manage timelines, dependencies, and engineering milestones. A combination of traditional systems engineering and Agile practices was followed for iterative development within subsystems.
+![](scheduling.png)
+The Air Cab project was structured using Microsoft Project to manage timelines, dependencies, and engineering milestones. A combination of traditional systems engineering and Agile practices was followed for iterative development within subsystems.
 
-Lifecycle: Concept → Design → Prototype → Test → Certification
-
-Parallel workstreams (e.g., propulsion, avionics, chassis)
-
-Agile-inspired sprints for software modules
-
-MS Project used for WBS, Gantt charts, and long-term planning  
-
-Covers conceptual design to flight certification
+- Lifecycle: Concept → Design → Prototype → Test → Certification
+- Parallel workstreams (e.g., propulsion, avionics, chassis)
+- Agile-inspired sprints for software modules
+- MS Project used for WBS, Gantt charts, and long-term planning  
+- Covers conceptual design to flight certification
 
 ### 💰 Cost Breakdown Structure (CBS)
 - Line-by-line estimation of labor, R&D, facilities, and testing  
